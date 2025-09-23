@@ -191,3 +191,5 @@ botpy.log*
 build.bat
 test*
 wxauto*
+
+data/super_agent_party.db
